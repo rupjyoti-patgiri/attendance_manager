@@ -57,7 +57,7 @@ function Navbar(): ReactElement {
     <nav className="w-full flex justify-between px-20 pt-10">
       {/* logo */}
       <div>
-        <Link href="/" className="text-gradient nav-item">NEUCLIDE</Link>
+        <Link href="/" className="text-gradient nav-item">InSync</Link>
       </div>
       {/* nav items */}
       <div>
