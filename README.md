@@ -38,15 +38,3 @@
   - `yarn dev`
 
 ---
-
-### <span style="color:lime">Some Screenshots</span>
-
-![SS1](./imgs/ss1.png)
-
-![SS2](./imgs/ss2.png)
-
-![SS3](./imgs/ss3.png)
-
-![SS4](./imgs/ss4.png)
-
-![SS5](./imgs/ss5.png)
